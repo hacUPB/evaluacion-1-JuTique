@@ -3,6 +3,9 @@
 -he estado usando github para clonar el codigo en mi pc local y git bash para copiar los codigos 
 
 
+![](Escritorio/UpbLogo.png) 
+
+
 https://github.com/hacUPB/evaluacion-1-JuTique
 
 
@@ -17,3 +20,5 @@ https://github.com/hacUPB/evaluacion-1-JuTique
 -git init 
 
 -git status 
+
+-git push
